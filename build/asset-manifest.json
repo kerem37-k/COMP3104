@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kerem37-k/COMP3104/static/css/main.27ca76a1.css",
+    "main.js": "/kerem37-k/COMP3104/static/js/main.9b6d2443.js",
+    "static/js/453.ebe2eb95.chunk.js": "/kerem37-k/COMP3104/static/js/453.ebe2eb95.chunk.js",
+    "index.html": "/kerem37-k/COMP3104/index.html",
+    "main.27ca76a1.css.map": "/kerem37-k/COMP3104/static/css/main.27ca76a1.css.map",
+    "main.9b6d2443.js.map": "/kerem37-k/COMP3104/static/js/main.9b6d2443.js.map",
+    "453.ebe2eb95.chunk.js.map": "/kerem37-k/COMP3104/static/js/453.ebe2eb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.9b6d2443.js"
+  ]
+}
